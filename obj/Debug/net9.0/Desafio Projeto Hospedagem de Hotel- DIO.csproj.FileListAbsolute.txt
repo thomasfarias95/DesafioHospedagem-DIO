@@ -1,0 +1,14 @@
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\bin\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.exe
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\bin\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.deps.json
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\bin\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.runtimeconfig.json
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\bin\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.dll
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\bin\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.pdb
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.dll
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\refint\Desafio Projeto Hospedagem de Hotel- DIO.dll
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.pdb
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\Desafio Projeto Hospedagem de Hotel- DIO.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Projetos\Desafio C#\DesafioProjetoHospedagemDeHotel-DIO\obj\Debug\net9.0\ref\Desafio Projeto Hospedagem de Hotel- DIO.dll
